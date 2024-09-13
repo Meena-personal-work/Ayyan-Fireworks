@@ -5,7 +5,7 @@ const CrackersList =[
       { "name": "Ganesh Crackers", "originalRate" : "110", "rate": "55.00", "tamilName": "கணேஷ் கிராக்கர்ஸ்" },
       { "name": "Lakshmi Crackers", "originalRate" : "64", "rate": "32.00", "tamilName": "லட்சுமி கிராக்கர்ஸ்" },
       { "name": "Jawan Crackers","originalRate" : "50",  "rate": "25.00", "tamilName": "ஜவான் வெடி" },
-      { "name": "Bird 2¾ Crackers","originalRate" : "26",  "rate": "13.00", "tamilName": "பேர்டு 23/4 கிராக்கர்ஸ்" }
+      { "name": "Bird 2¾ Crackers","originalRate" : "26",  "rate": "13.00", "tamilName": "பேர்டு 2¾ கிராக்கர்ஸ்" }
     ]
   },
   {
@@ -21,31 +21,31 @@ const CrackersList =[
         "name": "Ground Chakkar Spl (10 Pcs)",
         "originalRate" : "260",  
         "rate": "130.00",
-        "tamilName": "தரைசக்கரம் சிறியது (25 பீஸ்) "
+        "tamilName": "தரைசக்கரம் ஸ்பெஷல் (10 பீஸ்) "
       },
       {
         "name": "Ground Chakkar Deluxe (10 Pcs)",
         "originalRate" : "450",  
         "rate": "225.00",
-        "tamilName": "தரைசக்கரம் சிறியது (25 பீஸ்) "
+        "tamilName": "தரைசக்கரம் டிலக்ஸ் (10 பீஸ்) "
       },
       {
         "name": "Giant Wheel (5 Pcs)",
         "originalRate" : "320",  
         "rate": "160.00",
-        "tamilName": "ஜெயிண்ட் வீல் "
+        "tamilName": "ஜெயிண்ட் வீல்(5 பீஸ்) "
       },
       {
         "name": "Glittering Wheel (5 Pcs) ",
         "originalRate" : "320",  
         "rate": "160.00",
-        "tamilName": "கிளிட்டரிங் வீல்"
+        "tamilName": "கிளிட்டரிங் வீல் (5 பீஸ்)"
       },
       {
         "name": "Whistling Wheel (5 Pcs)",
         "originalRate" : "340",  
         "rate": "170.00",
-        "tamilName": "விசிலிங் வீல்"
+        "tamilName": "விசிலிங் வீல் (5 பீஸ்)"
       },
 ]
   },
@@ -56,18 +56,13 @@ const CrackersList =[
         "name": "Lotus 4 x4 Wheel (5 Pcs)",
         "originalRate" : "220",  
         "rate": "110.00",
-        "tamilName": "லோட்டஸ் 4 x 4 வீல்"
+        "tamilName": "லோட்டஸ் 4 x 4 வீல்(5 பீஸ்)"
       },
       {
         "name": "Cocktail Spinner (10 Pcs)",
         "originalRate" : "90",  
         "rate": "45.00",
         "tamilName": "காக்டெயில் ஸ்பின்னர் (10 பீஸ்)"
-      },
-      {
-        "name": "Ground Chakkar - Asoka",
-        "rate": "75.00",
-        "tamilName": "சக்கரம் அசோகா"
       },
       {
         "name": "Rio Wheel (5 Pcs)",
@@ -84,16 +79,15 @@ const CrackersList =[
       {
         "name": "Classic Wheel (10 pcs)",
         "originalRate" : "540",  
-        "rate": "27.00",
+        "rate": "270.00",
         "tamilName": "கிளாசிக் வீல் (10 பீஸ்)"
       },
       {
         "name": "Top Tucker (5 pcs)",
         "originalRate" : "140",  
         "rate": "70.00",
-        "tamilName": "டின்டோ வீல் (5 பீஸ்)"
+        "tamilName": "டாப் டக்கர் (5 பீஸ்)"
       },
-  
       {
         "name": "Ninja Chakkar (2 pcs)",
         "originalRate" : "180",  
@@ -102,7 +96,7 @@ const CrackersList =[
       },
       {
         "name": "Zodiac Spinners (5 Pcs) ",
-        "originalRate" : "28",  
+        "originalRate" : "280",  
         "rate": "140.00",
         "tamilName": "ஜோடியாக் ஸ்பின்னர் (5 பீஸ்)"
       },
@@ -116,7 +110,7 @@ const CrackersList =[
         "name": "Flower Pot Big (10 Pcs)",
         "originalRate" : "270",  
         "rate": "135.00",
-        "tamilName": "பூச்சட்டி ஸ்பெஷல் (10 பீஸ்)"
+        "tamilName": "பூச்சட்டி பெரியது (10 பீஸ்)"
       },
       {
         "name": "Flower Pot Spl (10Pcs)",
@@ -135,13 +129,13 @@ const CrackersList =[
         "name": "Flower Pot Deluxe (2Pcs)",
         "originalRate" : "250",
         "rate": "125.00",
-        "tamilName": "பூச்சட்டி டெலக்ஸ் (10 பீஸ்)"
+        "tamilName": "பூச்சட்டி டிலக்ஸ் (10 பீஸ்)"
       },
       {
         "name": "Tri Colour Fountain (5 Pcs)",
         "originalRate" : "680",
         "rate": "340.00",
-        "tamilName": "ட்ரை கலர் பவுண்டெயின் (2 பீஸ்)"
+        "tamilName": "ட்ரை கலர் பவுண்டெயின் (5 பீஸ்)"
       },
       {
         "name": "Rangoli (5 Pcs)",
@@ -183,7 +177,7 @@ const CrackersList =[
         "name": "Varnajal (10 Pcs)",
         "originalRate" : "730",
         "rate": "365.00",
-        "tamilName": "வர்ணஜால் (4 பீஸ்)"
+        "tamilName": "வர்ணஜால் (10 பீஸ்)"
       },
       {
         "name": "Royal Majestic (5 Pcs)",
@@ -229,14 +223,14 @@ const CrackersList =[
         },
         {
           "name": "Fire Drops (1 Pcs)",
-          "originalRate" : "55",
-          "rate": "110.00",
+          "originalRate" : "110",
+          "rate": "55.00",
           "tamilName": "ஃபயர் ட்ராப்ஸ் (1 பீஸ்)"
         },
         {
           "name": "Snow Patrol (1 Pcs)",
-          "originalRate" : "55",
-          "rate": "110.00",
+          "originalRate" : "110",
+          "rate": "55.00",
           "tamilName": "ஸ்னோ பெட்ரோல் (1 பீஸ்)"
         },
         {
@@ -261,7 +255,7 @@ const CrackersList =[
           "name": "Lemon Tree (4 Colour) (1 Pcs)",
           "originalRate" : "160",
           "rate": "80.00",
-          "tamilName":"லெமன் ட்ரீ (4 கலர்"
+          "tamilName":"லெமன் ட்ரீ (4 கலர்)(1 பீஸ்)"
         },
         {
           "name": "Tuti Fruti (3 Pcs)",
@@ -370,7 +364,7 @@ const CrackersList =[
           "tamilName": "கேக் பாம்"
         },
         {
-          "name": "Shogun Bomb (10 Pcs))",
+          "name": "Shogun Bomb (10 Pcs)",
           "originalRate" : "260",
           "rate": "130.00",
           "tamilName": "சோகன் பாம்"
@@ -565,7 +559,7 @@ const CrackersList =[
           "name": "Super Drone (5 Pcs)",
           "originalRate" : "300",
           "rate": "150.00",
-          "tamilName": "சூப்பர் ட்ரோன்9"
+          "tamilName": "சூப்பர் ட்ரோன்"
         },
 
       ]
@@ -623,7 +617,7 @@ const CrackersList =[
     ]
     },
     {
-      "category": "PIPE 1¼ SKYOUT",
+      "category": "PIPE 1¾ SKYOUT",
       "items": [
         {
           "name": "Phoenix (3 Pcs)",
@@ -662,8 +656,8 @@ const CrackersList =[
       "items": [
         {
           "name": "Akash Thoran (Parachute)",
-          "originalRate" : "940",
-          "rate": "250.00",
+          "originalRate" : "380",
+          "rate": "190.00",
           "tamilName": "ஆகாஷ் தோரன்"
         },
         {
@@ -869,12 +863,6 @@ const CrackersList =[
           "tamilName": "டேக்கே மேன் - 12 சாட்"
         },
         {
-          "name": "Dekhe Man - 12 Shot",
-          "originalRate" : "380",
-          "rate": "190.00",
-          "tamilName": "டேக்கே மேன் - 12 சாட்"
-        },
-        {
           "name": "Pink Panter-12 Shot",
           "originalRate" : "400",
           "rate": "200.00",
@@ -943,19 +931,13 @@ const CrackersList =[
           "name": "15-Shot ID Indian Delight",
           "originalRate" : "860",
           "rate": "430.00",
-          "tamilName": "15 - சாட் ஐடி இந்தியன் டெலைட்"
+          "tamilName": "15 - சாட் ஐடி இந்தியன் டிலைட்"
         },
         {
           "name": "30-Shot ID Indian Delight",
           "originalRate" : "1600",
           "rate": "800.00",
-          "tamilName": "30 - சாட் ஐடி இந்தியன் டெலைட்"
-        },
-        {
-          "name": "60 Shot Wounder Night",
-          "originalRate" : "2500",
-          "rate": "1250.00",
-          "tamilName": "60 சாட் வூன்டர் நைட்"
+          "tamilName": "30 - சாட் ஐடி இந்தியன் டிலைட்"
         },
         {
           "name": "60 Shot Wounder Night",
@@ -979,7 +961,7 @@ const CrackersList =[
           "name": "120 Shot Arabian Delight",
           "originalRate" : "5000",
           "rate": "2500.00",
-          "tamilName": "120 சாட் அரேபியன் டெலைட்"
+          "tamilName": "120 சாட் அரேபியன் டிலைட்"
         },
         {
           "name": "240 Shot Classic Night",
@@ -991,7 +973,7 @@ const CrackersList =[
           "name": "240 Shot Arabian Delight",
           "originalRate" : "10600",
           "rate": "5300.00",
-          "tamilName": "240 சாட் அரேபியன் டெலைட்"
+          "tamilName": "240 சாட் அரேபியன் டிலைட்"
         }
       ]
     },
@@ -1143,7 +1125,7 @@ const CrackersList =[
       ]
     },
     {
-      "category": "GIFT BOX",
+      "category": "FAMILY PACK",
       "items": [
         {
           "name": "Ayyan Premium - 35",
