@@ -428,13 +428,7 @@ const CrackersList =[
           "originalRate" : "1600",
           "rate": "800.00",
           "tamilName": "1000 ஜாய்"
-        },
-        {
-          "name": "5000 Joy ",
-          "originalRate" : "7600",
-          "rate": "3800.00",
-          "tamilName": "5000 ஜாய்"
-        },
+        }
       ]
     },
     {
@@ -619,18 +613,6 @@ const CrackersList =[
     {
       "category": "PIPE 1¾ SKYOUT",
       "items": [
-        {
-          "name": "Phoenix (3 Pcs)",
-          "originalRate" : "800",
-          "rate": "400.00",
-          "tamilName": "போனிக்ஸ் (3 பீஸ்)"
-        },
-        {
-          "name": "Chiacago (3 Pcs)",
-          "originalRate" : "800",
-          "rate": "400.00",
-          "tamilName": "சியாகாகோ"
-        },
         {
           "name": "Crackling Queen (3 Pcs)",
           "originalRate" : "940",
