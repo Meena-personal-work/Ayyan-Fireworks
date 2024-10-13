@@ -36,12 +36,6 @@ const CrackersList =[
         "tamilName": "ஜெயிண்ட் வீல்(5 பீஸ்) "
       },
       {
-        "name": "Glittering Wheel (5 Pcs) ",
-        "originalRate" : "320",  
-        "rate": "160.00",
-        "tamilName": "கிளிட்டரிங் வீல் (5 பீஸ்)"
-      },
-      {
         "name": "Whistling Wheel (5 Pcs)",
         "originalRate" : "340",  
         "rate": "170.00",
@@ -75,12 +69,6 @@ const CrackersList =[
         "originalRate" : "310",  
         "rate": "155.00",
         "tamilName": "டின்டோ வீல் (5 பீஸ்)"
-      },
-      {
-        "name": "Classic Wheel (10 pcs)",
-        "originalRate" : "540",  
-        "rate": "270.00",
-        "tamilName": "கிளாசிக் வீல் (10 பீஸ்)"
       },
       {
         "name": "Top Tucker (5 pcs)",
@@ -142,14 +130,7 @@ const CrackersList =[
         "originalRate" : "420",
         "rate": "210.00",
         "tamilName": "ரங்கோலி (5 பீஸ்)"
-      },
-      {
-        "name": "Colour Koti Deluxe (10 Pcs) ",
-        "originalRate" : "1180",
-        "rate": "590.00",
-        "tamilName": "கலர் கோட்டி டீலக்ஸ்(10 பீஸ்)"
-      },
-
+      }
     ]
   },
   {
@@ -388,22 +369,10 @@ const CrackersList =[
           "tamilName": "உதிரி வரி பிஜிலி"
         },
         {
-          "name": "28 Super",
-          "originalRate" : "40",
-          "rate": "20.00",
-          "tamilName": "28 சூப்பர்"
-        },
-        {
           "name": "56 Super",
           "originalRate" : "80",
           "rate": "40.00",
           "tamilName": "56 சூப்பர்"
-        },
-        {
-          "name": "28 G.Super",
-          "originalRate" : "80",
-          "rate": "40.00",
-          "tamilName": "28 ஜி. சூப்பர்"
         },
         {
           "name": "56 G.Super",
@@ -416,12 +385,6 @@ const CrackersList =[
           "originalRate" : "220",
           "rate": "110.00",
           "tamilName": "100 ஜாய்"
-        },
-        {
-          "name": "300 Joy ",
-          "originalRate" : "640",
-          "rate": "320.00",
-          "tamilName": "300 ஜாய்"
         },
         {
           "name": "1000 Joy ",
@@ -548,14 +511,7 @@ const CrackersList =[
           "originalRate" : "140",
           "rate": "70.00",
           "tamilName": "ஹெலிகாப்டர் (5 பீஸ்)"
-        },
-        {
-          "name": "Super Drone (5 Pcs)",
-          "originalRate" : "300",
-          "rate": "150.00",
-          "tamilName": "சூப்பர் ட்ரோன்"
-        },
-
+        }
       ]
     },
     {
@@ -667,22 +623,10 @@ const CrackersList =[
           "tamilName": "வைலட் ஃபிளவர்"
         },
         {
-          "name": "Blue Bird",
-          "originalRate" : "350",
-          "rate": "175.00",
-          "tamilName":"புளூ பேர்டு"
-        },
-        {
           "name": "Green Show",
           "originalRate" : "350",
           "rate": "175.00",
           "tamilName": "கிரீன் ஷோ"
-        },
-        {
-          "name": "Ayyan Pink",
-          "originalRate" : "350",
-          "rate": "175.00",
-          "tamilName": "அய்யன் பின்க்"
         },
         {
           "name": "Alaska",
@@ -892,12 +836,6 @@ const CrackersList =[
           "tamilName": "25 - சாட் சிஎம்எஸ் மல்டிகலர்"
         },
         {
-          "name": "25-Shot Thor",
-          "originalRate" : "1000",
-          "rate": "500.00",
-          "tamilName": "25- சாட் தார்"
-        },
-        {
           "name": "25-Shot Balle-Balle",
           "originalRate" : "900",
           "rate": "450.00",
@@ -926,12 +864,6 @@ const CrackersList =[
           "originalRate" : "2500",
           "rate": "1250.00",
           "tamilName": "60 சாட் வூன்டர் நைட்"
-        },
-        {
-          "name": "60 Shot Mystric Magic",
-          "originalRate" : "2600",
-          "rate": "1300.00",
-          "tamilName": "60 சாட் மிஸ்ட்ரிக் மேஜிக்"
         },
         {
           "name": "120 Shot Classic Night",
@@ -985,18 +917,6 @@ const CrackersList =[
           "originalRate" : "5400",
           "rate": "2700.00",
           "tamilName": "ஃபெஸ்டிவல் ஸ்பெஷல்"
-        },
-        {
-          "name": "Top Star - 1¼ Shell",
-          "originalRate" : "12400",
-          "rate": "6200.00",
-          "tamilName": "டாப் ஸ்டார் - 1¼ செல்"
-        },
-        {
-          "name": "Panic Paris 3” Shell",
-          "originalRate" : "9000",
-          "rate": "4500.00",
-          "tamilName": "பேனிக் பாரிஸ் 3\" செல்"
         },
         {
           "name": "Night Riders 2” Shell (10 x 10)",
@@ -1137,12 +1057,6 @@ const CrackersList =[
           "originalRate" : "140",
           "rate": "70.00",
           "tamilName": "பாப்ஸ் 5 கலர்"
-        },
-        {
-          "name": "Jash 5 Colour",
-          "originalRate" : "160",
-          "rate": "80.00",
-          "tamilName": "ஜாஸ் 5 கலர்"
         },
         {
           "name": "Rainbow 5 Colour",
