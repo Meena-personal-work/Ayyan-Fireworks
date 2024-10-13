@@ -1027,23 +1027,6 @@ const CrackersList =[
       ]
     },
     {
-      "category": "FAMILY PACK",
-      "items": [
-        {
-          "name": "Ayyan Premium - 35",
-          "originalRate" : "6000",
-          "rate": "3000.00",
-          "tamilName": "அய்யன் பிரிமியம் - 35"
-        },
-        {
-          "name": "Ayyan Luxury - 50",
-          "originalRate" : "10000",
-          "rate": "5000.00",
-          "tamilName": "அய்யன் லக்ஷரி - 50"
-        }
-      ]
-    },
-    {
       "category": "MATCH BOX & ROLL CAP",
       "items": [
         {
